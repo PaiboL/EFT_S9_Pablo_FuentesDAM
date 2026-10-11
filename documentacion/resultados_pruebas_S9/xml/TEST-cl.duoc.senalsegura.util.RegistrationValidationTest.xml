@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cl.duoc.senalsegura.util.RegistrationValidationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-06T03:17:04.040Z" hostname="0e3adf5b4421" time="0.001">
+  <properties/>
+  <testcase name="shortPasswordIsRejected" classname="cl.duoc.senalsegura.util.RegistrationValidationTest" time="0.001"/>
+  <testcase name="malformedEmailIsRejected" classname="cl.duoc.senalsegura.util.RegistrationValidationTest" time="0.0"/>
+  <testcase name="passwordMismatchIsRejected" classname="cl.duoc.senalsegura.util.RegistrationValidationTest" time="0.0"/>
+  <testcase name="unacceptedTermsAreRejected" classname="cl.duoc.senalsegura.util.RegistrationValidationTest" time="0.0"/>
+  <testcase name="validRegistrationIsAccepted" classname="cl.duoc.senalsegura.util.RegistrationValidationTest" time="0.0"/>
+  <testcase name="blankRequiredFieldsAreRejected" classname="cl.duoc.senalsegura.util.RegistrationValidationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
